@@ -14,7 +14,7 @@ Essentially from the beginning, only one model of blockchain is extremely hard t
 
 
 ## Trend 3.  More widening with BPA - Integration with legacy business process
-- This is a new trend ...
+- This is a new movement ...
   
 Smart contacts can implement business process and workflow management in enterprise applications, but it is hard to replace all of legacy assets of applications because of its volume, limitations such as exchanging information with outer world so that it has to rely on Oracle services, and so on.
 <b><font size="+1">Baseline Protocol</font></b>, just initiated this year, is one movement of Business Process Automation to connect legacy business processes or applications with blockchain, by loosely coupled, Blockchain as a common reference, or blockchain as a middleware.
