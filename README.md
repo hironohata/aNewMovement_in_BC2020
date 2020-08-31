@@ -1,4 +1,4 @@
-# A new trend in Blockchain 2020
+# A new movement in Blockchain 2020
 
 Eleven years have passed since the Satoshi's invention of Bitcoin, and blockchain technology has been accepted even in Enterprise. Let's see the recent movement or trend of Blockchain technologies.
 
