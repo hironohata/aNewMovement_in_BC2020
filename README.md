@@ -2,7 +2,7 @@
 
 Eleven years have passed since the Satoshi's invention of Bitcoin, and blockchain technology has been accepted even in Enterprise. Let's see the recent movement or trend of Blockchain technologies.
 
-<img src="./logo.png" width=25%>
+<img src="./logo2.png" width=25%>
 
 
 ## 1. Deepening - High Performance Blockchain
