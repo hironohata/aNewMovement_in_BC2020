@@ -13,7 +13,7 @@ In addition to COSMOS long lasting efforts, <b>Polkadot and Substrate</b> become
 Essentially from the beginning, only one model of blockchain is extremely hard to express every applications in the world, and each application has to have its most adequate model to be based on. Polkadot connects those heterogeneous models.
 
 
-## 3.  More widening with BPA - Integration with legacy business processes
+## 3.  More widening along BPA - Integration with legacy business processes
 - This is a new movement ...
   
 Smart contacts can implement business process and workflow management in enterprise applications, but it is hard to replace all of legacy assets of applications because of its volume, limitations such as exchanging information with outer world so that it has to rely on Oracle services, and so on.
