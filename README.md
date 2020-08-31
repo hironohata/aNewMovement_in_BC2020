@@ -6,7 +6,7 @@ Eleven years have passed since the Satoshi's invention of Bitcoin, and blockchai
 
 
 ## Trend 1. Deepening - High Performance Blockchain
-In order achieve higher performance for social deployment, Ethereum 2.0, for example, which more than two years were devoted to, is almost ready to go and to reveal new area.
+In order achieve higher performance for social deployment, Ethereum 2.0, for example, which more than two years were devoted to, is almost ready to go and reveal new area.
 
 ## Trend 2. Widening - Interoperability of Cross-chains　- Internet of Blockchain 
 In addition to COSMOS long lasting efforts, <b>Polkadot and Substrate</b> become available to exchange data across multiple para chains. 
